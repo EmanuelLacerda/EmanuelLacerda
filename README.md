@@ -8,4 +8,4 @@
 - **Conhecimentos de Design:** UX/UI e Figma.
 
 # Contato
-[LinkedIn](https://www.linkedin.com/in/emanuel-de-souza-lacerda/)
+<a href="https://www.linkedin.com/in/emanuel-de-souza-lacerda/" target="_blank" rel="external">LinkedIn</a>
