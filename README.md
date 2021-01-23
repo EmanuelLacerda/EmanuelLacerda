@@ -6,3 +6,6 @@
 - **Ferramentas de controle de versão:** git.
 - **Gerenciadores de pacotes:** npm.
 - **Conhecimentos de Design:** UX/UI e Figma.
+
+# Contato
+[LinkedIn](https://www.linkedin.com/in/emanuel-de-souza-lacerda/)
