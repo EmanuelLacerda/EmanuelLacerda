@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/emanuel-de-souza-lacerda/" target="_blank" rel="external" style={text-align: center}>LinkedIn</a>
+<a href="https://www.linkedin.com/in/emanuel-de-souza-lacerda/" target="_blank" rel="external" style="text-align: center">LinkedIn</a>
 ----
 # Minhas Skills
 - **Linguagens:** HTML5, CSS3 e JavaScript.
